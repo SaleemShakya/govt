@@ -1,0 +1,244 @@
+
+.navbar{
+    position: absolute;
+    width: 1920px;
+    height: 65px;
+    left: 0px;
+    top: 0px;
+    background-color: #FFFFFF;
+}
+
+.nav-toggler{
+    /* position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 12.5%;
+    bottom: 75%;
+    background: #292929; */
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 20px;
+    top:20px;
+}
+
+.logo{  
+    position: absolute; 
+    height:44px;
+    width:52px;
+    left: 65px;
+    top: 9px;
+}
+
+.name{
+    width: 138px;
+    height: 19px;
+    top: 23px;
+    left: 133px;
+    font-size: Roboto;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 18.75px;
+    text-align: center;
+}
+
+.search-box{
+    position: absolute;
+    width: 509px;
+    height: 42px;
+    left: 706px;
+    top: 9px;
+    background-color:#EFEFEF;
+    border-radius: 82px;
+}
+
+.search{
+width: 328px;
+height: 21px;
+top: 19px;
+left: 732px;
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 21px;
+color: #757575;
+}
+
+.search-btn{
+    position: absolute;
+    width: 16.62px;
+    height: 16.62px;
+}
+
+.notify{
+    position:absolute;
+    height: 34.57px;
+    width: 34.57px;
+    left: 90.87%;
+    right: 7.38%;
+    /* top: 1.48%; */
+    /* bottom: 95.14%; */
+    background-color:#FFD2D2;
+}
+
+.bell{
+    position: absolute;
+    left: 98.87%;
+    right: 8.31%;
+    top: 2.18%;
+    bottom: 96.04%
+}
+
+.hotel{
+    position:absolute;
+    height: 14.34px;
+    width: 15.45px;
+    left: 94%;
+    right: 5.19%;
+    top: 2.42%;
+    bottom: 96.17%;
+    background: #FFFFFF;
+}
+
+.admin{
+  height: 32px;
+  width: 32px;
+  left: 1796px;
+  top: 16px;
+  background-color: #44A64B;
+  border-radius: 50%;
+}
+
+.adm{
+    font-size: Poppins;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    width: 47px;
+    top: 22px;
+    left: 1839px;
+}
+
+.sidebar{
+    position:absolute;
+    width: 299px;
+    height: 959px;
+    left:0px;
+    background-color:#FFFFFF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.08);
+}
+
+/* Nagarik Badapatra*/
+.card-nkb{
+    position: absolute;
+    max-width: 120px;
+    max-height: 105px;
+    left:25px;
+    top: 82px;
+    background:#FFFFFF;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+
+.nagarik{
+    position: absolute;
+    width:30px;
+    height:27.5px;
+    left: 3.65%;
+    right: 94.79%;
+    top: 10.55%;
+    bottom: 86.77%;
+}
+
+.badp{
+    font-family: Poppins;
+    font-weight: 500;
+    size: 14px;
+    line-height: 16px;
+    text-align: center;
+}
+
+/* Services*/
+
+.card-srv{
+    position: absolute;
+    width: 120px;
+    height: 105px;
+    left: 25px;
+    top: 199px;
+    background: #FFFFFF;
+    border: 1px solid #E7E7E7;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.service{
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 70px;
+    top: 217px;
+}
+
+card-body-srv{
+    width: 80px;
+    height: 34px;
+    top: 144px;
+    left: 45px;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+}
+
+.ser{
+    position: absolute;
+    width: 108px;
+    height: 34px;
+    left: 31px;
+    top: 261px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 13px;
+    line-height: 16px;
+    text-align: center;
+    color: #898989;
+}
+
+/* Communication */
+
+.heading{
+    position:absolute;
+    width: 296px;
+    height: 33px;
+    left: 340px;
+    top: 100px;
+    font-family:Roboto;
+    font-weight: 900;
+    size: 28px;
+    line-height: 33px;
+    color: #0C213A;
+}
+
+ul{
+    list-style: none;
+}
+
+li a{
+    position: absolute;
+    width: 780px;
+    height: 55px;
+    left : 340px;
+    top : 172px;
+    background: #FFFFFF;
+}
+
+
+
+
+
+
+
